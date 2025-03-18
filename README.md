@@ -23,6 +23,7 @@
 | Crazy Hillary     | Hillary Clinton   | Former U.S. Secretary of State, 2016 Presidential Candidate | 2016 | Suggested Clinton was unstable. |
 | Crooked Hillary   | Hillary Clinton   | Former U.S. Secretary of State, 2016 Presidential Candidate | 2016 | Main attack against Clinton, tying her to email scandals and corruption claims. |
 | Leakin' James Comey | James Comey     | Former FBI Director | 2018 | Accused Comey of leaking information harmful to Trump. |
+| Jeff Bozo         | Jeff Bezos           | Founder of Amazon, owner of *The Washington Post*        | 2018            | Mocked Bezos and his newspaper’s coverage of Trump. |
 | Lyin' James Comey  | James Comey      | Former FBI Director | 2018 | Accused Comey of dishonesty in handling the FBI’s Clinton investigation. |
 | Rob               | Ron DeSantis      | Governor of Florida, 2024 Presidential Candidate | 2023 | Tried out this nickname as an alternative to "Ron DeSanctimonious." |
 | Ron DeSanctimonious | Ron DeSantis    | Governor of Florida, 2024 Presidential Candidate | 2022–2024 | Criticized DeSantis for acting morally superior while seeking Trump’s support. |
@@ -48,4 +49,25 @@
 | Crazy Mika       | Mika Brzezinski   | Co-host of MSNBC's *Morning Joe* | 2017 | Mocked Brzezinski’s criticism of Trump. |
 | Mr. Magoo       | Jeff Sessions     | Former U.S. Attorney General | 2018 | Compared Sessions to the cartoon character for his perceived incompetence. |
 
-This chart includes key context for each nickname, giving insight into Trump's motivations for using them. Let me know if you need further refinements!
+## Organizations
+
+| Nickname                         | Official Name                                              | Timeframe/Era         | Context |
+|----------------------------------|-----------------------------------------------------------|----------------------|---------|
+| Americans for No Prosperity      | Americans for Prosperity                                  | 2019–present         | Criticized the libertarian conservative political advocacy group for opposing Trump’s trade policies. |
+| Globalist's Club for NO Growth   | Club for Growth                                          | 2016–present         | Mocked the conservative group for supporting free trade policies that Trump opposed. |
+| Clinton News Network (CNN)       | CNN                                                     | 2015–present         | Frequently used to discredit CNN’s reporting as biased against Trump. |
+| Fake News CNN                    | CNN                                                     | 2016–present         | Accused CNN of spreading misinformation and being unfair to Trump. |
+| Low Ratings CNN                   | CNN                                                     | 2018–present         | Criticized CNN for declining viewership and lack of popularity. |
+| Communist Left                   | Democratic Party                                        | 2020–present         | Used to paint Democrats as extreme leftists or communists. |
+| Democrat Party                    | Democratic Party                                        | 2015–present         | Used instead of "Democratic Party" as a pejorative. |
+| Lunatic Left                      | Democratic Party                                        | 2019–present         | Attack on progressive elements of the Democratic Party. |
+| Radical Left Democrats            | Democratic Party                                        | 2018–present         | Used to label Democratic politicians as extreme leftists. |
+| Radical Left Lunatics             | Democratic Party                                        | 2020–present         | Further exaggerated attack on left-wing Democrats. |
+| Lincoln Pervert Project           | The Lincoln Project                                     | 2020–present         | Mocked the anti-Trump conservative PAC, implying moral failings. |
+| Failing Forbes Magazine           | Forbes                                                 | 2019–present         | Criticized Forbes for negative coverage of Trump’s businesses. |
+| MSDNC                             | MSNBC                                                  | 2017–present         | Suggested MSNBC is an extension of the Democratic National Committee. |
+| Failing New York Times            | The New York Times                                     | 2016–present         | Used to criticize *The New York Times* for perceived bias and declining readership. |
+| Amazon The Washington Post        | The Washington Post                                    | 2017–present         | Mocked *The Washington Post* due to Jeff Bezos’s ownership, claiming biased coverage. |
+| Unselect Committee                | United States House Select Committee on the January 6 Attack | 2021–2023         | Discredited the January 6th investigation as illegitimate. |
+| Concast                           | Comcast                                                | 2019–present         | Criticized the media conglomerate for its ownership of NBC and MSNBC. |
+| ABC Fake News                     | ABC News                                              | 2018–present         | Suggested ABC News spread misinformation against Trump. |
