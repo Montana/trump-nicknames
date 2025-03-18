@@ -45,9 +45,37 @@
 | Nervous Nancy    | Nancy Pelosi      | Speaker of the U.S. House of Representatives | 2018 | Suggested Pelosi was anxious or indecisive. |
 | Little Mike Pence | Mike Pence       | 48th U.S. Vice President | 2021 | Mocked Pence after he refused to overturn the 2020 election results. |
 | Sleepy Eyes Chuck Todd | Chuck Todd  | NBC News Journalist | 2017 | Suggested Todd was lazy or dishonest. |
-| Psycho Joe       | Joe Scarborough   | Co-host of MSNBC's *Morning Joe* | 2017 | Accused Scarborough of mental instability. |
-| Crazy Mika       | Mika Brzezinski   | Co-host of MSNBC's *Morning Joe* | 2017 | Mocked Brzezinski’s criticism of Trump. |
 | Mr. Magoo       | Jeff Sessions     | Former U.S. Attorney General | 2018 | Compared Sessions to the cartoon character for his perceived incompetence. |
+
+## Media Figures
+
+| Nickname               | Personal Name         | Era / Timeframe | Context |
+|------------------------|----------------------|-----------------|---------|
+| **Crazy Mika**         | Mika Brzezinski      | 2017–present    | Co-host of *Morning Joe*; critical of Trump, leading to personal attacks. |
+| **Dumb as a Rock Mika** | Mika Brzezinski     | 2017            | Suggested she was unintelligent after she criticized Trump’s administration. |
+| **Dopey Graydon Carter** | Graydon Carter     | 2016–2017       | Former *Vanity Fair* editor; mocked for his past criticisms of Trump. |
+| **Allison Cooper**     | Anderson Cooper      | 2018            | Mocked Cooper’s reporting on Trump, feminizing his name. |
+| **Fredo**             | Chris Cuomo          | 2019–2021       | Compared Cuomo to the weak brother Fredo Corleone from *The Godfather*; perceived as an insult to his intelligence. |
+| **Maggot Hagerman**    | Maggie Haberman      | 2022–present    | White House correspondent for *The New York Times*; criticized for reporting on Trump. |
+| **Crazy Megyn**       | Megyn Kelly          | 2015–2017       | Attack after Kelly questioned Trump aggressively during the 2016 GOP debates. |
+| **Sloppy Michael Moore** | Michael Moore     | 2016–2020       | Criticized Moore for his liberal documentaries and opposition to Trump. |
+| **Morning Psycho**    | Joe Scarborough      | 2017–present    | Scarborough, co-host of *Morning Joe*, was a frequent Trump critic. |
+| **Psycho Joe**        | Joe Scarborough      | 2017–present    | Another attack on Scarborough’s mental stability. |
+| **Lil' George**       | George Stephanopoulos | 2016–2019       | Mocked Stephanopoulos for his smaller stature and ties to the Clintons. |
+| **George Slopadopolus** | George Stephanopoulos | 2019            | Mocked his last name to demean his journalism. |
+| **Fake Tapper**       | Jake Tapper          | 2017–present    | Suggested Tapper spreads misleading news on CNN. |
+| **Sleepy Eyes**       | Chuck Todd           | 2017–2021       | Suggested Todd was lazy or deceptive in his journalism. |
+| **Lyin' Brian**       | Brian Williams       | 2017–2020       | Attacked Williams' credibility after his false reporting scandal. |
+| **Little Jeff Zucker** | Jeff Zucker         | 2017–2021       | Mocked the former CNN President for overseeing what Trump called "fake news." |
+
+## Television Programs
+
+| Nickname                | Official Name       | Era / Timeframe | Context |
+|-------------------------|--------------------|-----------------|---------|
+| **Deface the Nation**   | *Face the Nation*  | 2017–present    | Mocked CBS's weekly political talk show, accusing it of anti-Trump bias. |
+| **Meet the Fake Press** | *Meet the Press*   | 2017–2021       | Suggested NBC’s Sunday talk show was spreading false or biased information. |
+| **Meet the Depressed**  | *Meet the Press*   | 2017–2021       | Another variation implying the show was too critical or negative about Trump. |
+
 
 ## Organizations
 
