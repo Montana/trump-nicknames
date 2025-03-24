@@ -8,7 +8,7 @@
 | Sloppy Steve          | Steve Bannon      | Former White House Chief Strategist | 2018 | Fell out with Trump after being quoted in Michael Wolff’s book *Fire and Fury* criticizing Trump’s family. |
 | Crooked Joe          | Joe Biden        | 46th U.S. President, former VP, former Senator | 2023–present | Revived the “crooked” moniker from Hillary Clinton to paint Biden as corrupt. |
 | Joe Hiden'           | Joe Biden        | 46th U.S. President, former VP, former Senator | 2020 | Mocked Biden for campaigning from home during COVID-19. |
-| Radical Left Lunatic | Judge James Boasburg | Chief Judge of the United States District Court for the District of Columbia | 2025 | Challenging the deporation flight to Venezula after Judge Boasberg put an order to stop the flight, the flight still occurred. |
+| Radical Left Lunatic | Judge James Boasburg | Chief Judge of the United States District Court for the District of Columbia | 2025 | Trump called Boasberg "Radical Left Lunatic" for wanting to keep murders in the USA, despite Judge Boasberg's order to halt the deportation flight to Venezuela, the flight proceeded, prompting challenges to its execution. |
 | Sleepy Joe          | Joe Biden        | 46th U.S. President, former VP, former Senator | 2019–2020 | Portrayed Biden as low-energy and mentally unfit. |
 | Slow Joe            | Joe Biden        | 46th U.S. President, former VP, former Senator | 2020 | Suggested Biden was not mentally sharp. |
 | Mini Mike Bloomberg | Michael Bloomberg | Former NYC Mayor, 2020 Democratic candidate | 2020 | Mocked Bloomberg’s height and campaign spending. |
