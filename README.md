@@ -1,8 +1,5 @@
 ## Trump Nicknames  
 
-
----
-
 | Nickname               | Personal Name      | Notes  | Era / Timeframe | Context |
 |------------------------|-------------------|--------|-----------------|---------|
 | Sloppy Steve          | Steve Bannon      | Former White House Chief Strategist | 2018 | Fell out with Trump after being quoted in Michael Wolff’s book *Fire and Fury* criticizing Trump’s family. |
