@@ -20,6 +20,7 @@
 | Sloppy Chris      | Chris Christie    | Former Governor of New Jersey, 2016 & 2024 Presidential Candidate | 2016, 2023–2024 | Mocked Christie’s appearance and his 2024 campaign attacks on Trump. |
 | Crazy Hillary     | Hillary Clinton   | Former U.S. Secretary of State, 2016 Presidential Candidate | 2016 | Suggested Clinton was unstable. |
 | Crooked Hillary   | Hillary Clinton   | Former U.S. Secretary of State, 2016 Presidential Candidate | 2016 | Main attack against Clinton, tying her to email scandals and corruption claims. |
+| Fake Jake         | Jake Tapper       | CNN News Anchor of State of the Union                       | 2025 | Mocked Tapper’s moderation of the June 2024 debate as biased or unfair to Trump.
 | Leakin' James Comey | James Comey     | Former FBI Director | 2018 | Accused Comey of leaking information harmful to Trump. |
 | Jeff Bozo         | Jeff Bezos           | Founder of Amazon, owner of *The Washington Post*        | 2018            | Mocked Bezos and his newspaper’s coverage of Trump. |
 | Lyin' James Comey  | James Comey      | Former FBI Director | 2018 | Accused Comey of dishonesty in handling the FBI’s Clinton investigation. |
