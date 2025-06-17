@@ -7,7 +7,7 @@
 | Joe Hiden'           | Joe Biden        | 46th U.S. President, former VP, former Senator | 2020 | Mocked Biden for campaigning from home during COVID-19. |
 | Rogue                | Judge James Boasburg | Chief Judge of the United States District Court for the District of Columbia | 2025 | Trump mocked Boasberg for halting the deportation of violent Venezuelan gang members after their flights had already departed.      |
 | Sleepy Joe          | Joe Biden        | 46th U.S. President, former VP, former Senator | 2019–2020 | Portrayed Biden as low-energy and mentally unfit. |
-| Kooky Tucker Calrson | Tucker Carlson  | Prominent FOX News Host (2015-2023). Now owns The Tucker Carlson Network | 2025 - Current | Carlson criticized Trump's response to the Israeli attack on Iran. 
+| Kooky Tucker Carlson | Tucker Carlson  | Prominent FOX News Host (2015-2023). Now owns The Tucker Carlson Network | 2025 - Current | Carlson criticized Trump's response to the Israeli attack on Iran. 
 | Slow Joe            | Joe Biden        | 46th U.S. President, former VP, former Senator | 2020 | Suggested Biden was not mentally sharp. |
 | Mini Mike Bloomberg | Michael Bloomberg | Former NYC Mayor, 2020 Democratic candidate | 2020 | Mocked Bloomberg’s height and campaign spending. |
 | Da Nang Dick       | Richard Blumenthal | U.S. Senator from Connecticut | 2018–2019 | Referenced Blumenthal falsely claiming he served in Vietnam. |
